@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="gssocGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b00" />
+      <stop offset="100%" stop-color="#ff9100" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="#1e1e2e" stroke="url(#gssocGrad)" stroke-width="4" />
+  <path d="M50 18 L75 32 L75 58 Q75 78 50 88 Q25 78 25 58 L25 32 Z" fill="url(#gssocGrad)" opacity="0.9" />
+  <text x="50" y="62" font-family="'Inter', sans-serif" font-size="28" font-weight="900" fill="#ffffff" text-anchor="middle">GS</text>
+</svg>
